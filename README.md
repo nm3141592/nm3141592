@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on computational python projects!
+I'm currently working on creating Convolutional Neural Networks using TensorFlow in Python as well as researching vectorization and parallelization benefits of using R!
